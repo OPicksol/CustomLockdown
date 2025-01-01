@@ -22,6 +22,7 @@ if %errorlevel% neq 0 (
     set "python_installer=python-%python_version%-%python_arch%.exe"
     set "python_url=https://www.python.org/ftp/python/%python_version%/%python_installer%"
 
+    powershell -Command "Invoke-WebRequest -Uri '%python_url%' -OutFile '%SCRIPT_DIR%python-installer.exe'"
     if not exist "%SCRIPT_DIR%python-installer.exe" (
         call :log_message "Failed to download Python installer."
         pause
