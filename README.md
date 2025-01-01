@@ -1,3 +1,5 @@
+# CURRENTLY NOT FINISHED. COULD BE BAD IF YOU RAN IT RN
+
 # Customizable Lockdown Videoplayer
 
 ## Short Description
