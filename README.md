@@ -1,5 +1,8 @@
 # Customizable Lockdown Videoplayer
 
+## Short Description
+A user-safe 'lockdown' videoplayer
+
 ## Features
 
 Password Protection: Requires a password to exit the video playback, ensuring only authorized users can regain control.
