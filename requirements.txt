@@ -1,0 +1,5 @@
+pynput>=1.7.1
+python-vlc
+pillow
+pywin32
+pyautogui
