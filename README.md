@@ -5,6 +5,8 @@
 ## Short Description
 A user-safe 'lockdown' videoplayer
 
+[Support Me!!!(Please)](https://youpay.me/OPicksol)
+
 ## Features
 
 Password Protection: Requires a password to exit the video playback, ensuring only authorized users can regain control.
